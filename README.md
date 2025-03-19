@@ -1,2 +1,2 @@
-# homebrew-zellij-run
-Homebrew package for zellij-run
+# homebrew-scripts
+Homebrew tab for various scripts
