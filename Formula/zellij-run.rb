@@ -1,9 +1,9 @@
 class ZellijRun < Formula
   desc "Run commands in Zellij panes or fall back to regular bash"
   homepage "https://github.com/yetisage/zellij-run"
-  url insert""
+  url "https://github.com/yetisage/zellij-run/releases/download/v#{version}/zellij-run-#{version}.tar.gz"
   version "0.1.0"
-  revision 1
+  revision 2
   sha256 "fa0a620f0cc7ef9d27a3dd581109e23ec151efc69344937ee3e99f33acf82b86"
   depends_on "zellij"
 
