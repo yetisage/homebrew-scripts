@@ -3,6 +3,7 @@ class ZellijRun < Formula
   homepage "https://github.com/yetisage/zellij-run"
   url insert""
   version "0.1.0"
+  revision 1
   sha256 "fa0a620f0cc7ef9d27a3dd581109e23ec151efc69344937ee3e99f33acf82b86"
   depends_on "zellij"
 
