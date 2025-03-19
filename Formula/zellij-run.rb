@@ -3,7 +3,7 @@ class ZellijRun < Formula
   homepage "https://github.com/yetisage/zellij-run"
   url "https://github.com/yetisage/zellij-run/releases/download/v0.1.0/zellij-run-0.1.0.tar.gz"
   version "0.1.0"
-  revision 3
+  revision 4
   sha256 "996af5068ae656bc4340d2d2bae2305c6077207bb3c8f7467faebbc0f500f67b"
   depends_on "zellij"
 
